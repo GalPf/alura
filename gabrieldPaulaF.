@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula de programacao nas escolas</title>
+
+    </head>
+
+    <body>
+        <h1>
+            Aula de programacao nas escolas
+        </h1>
+        - A introdução de aulas de programação nas escolas é uma iniciativa importante para preparar os alunos para o mundo cada vez mais tecnológico em que vivemos. A programação é uma habilidade valiosa que pode ajudar os alunos a desenvolver sua criatividade, pensamento crítico e habilidades de resolução de problemas.
+        <p>
+           - Além disso, a programação pode ser uma área de interesse para muitos alunos, e oferecer aulas de programação pode ajudar a inspirar e motivar esses alunos a explorar suas paixões e interesses.
+            <p>
+                - Para que a introdução de aulas de programação nas escolas seja bem-sucedida, é importante garantir que os professores estejam adequadamente treinados e equipados com os recursos necessários para ensinar a programação de forma eficaz. Também é importante garantir que as aulas de programação sejam inclusivas e acessíveis a todos os alunos, independentemente de sua origem socioeconômica, gênero ou etnia.
+                <p>
+                   - Outra consideração importante é que a introdução de aulas de programação não deve ser vista como uma substituição para outras áreas curriculares importantes, como a literatura, a matemática e as ciências sociais. Em vez disso, a programação deve ser vista como uma habilidade complementar e integrada em um currículo abrangente e equilibrado.
+
+                     </p>
+                        Em resumo, a introdução de aulas de programação nas escolas pode ser uma iniciativa valiosa para preparar os alunos para o futuro e inspirá-los a explorar suas paixões e interesses. No entanto, é importante que essa introdução seja feita de forma cuidadosa e integrada, com o objetivo de complementar um currículo abrangente e equilibrado.
+                         </p>
+                                </p>
+                                    </body>
+                                    
+                                            <h2> Esta é uma foto de aluno programando um jogo</h2>
+                                            <img src="imagem/Estudante.jpeg" width="550" height="700">
+                                                
+                                                   
+                                                
+                                                        <style>
+                                                 body {
+                                                 background-color: blanchedalmond;
+
+                                                 }
+                    
+                                                  </style>
